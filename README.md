@@ -1,2 +1,2 @@
-# Kartikey-C-31-Class
-Using the array concept
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
